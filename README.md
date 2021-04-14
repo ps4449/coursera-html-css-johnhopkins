@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to My Solutions
 
-You can use the [editor on GitHub](https://github.com/ps4449/cousera-html-css-johnhopkins/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I did three practical exercises in this course with increasing levels of difficulty. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Exercises
 
-### Markdown
+### Module 2: Basic HTML+CSS Menu to Implement Bootstrap
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can view the finished preview [here](https://ps4449.github.io/coursera-html-css-johnhopkins/module2-solution/index.html).
 
-```markdown
-Syntax highlighted code block
+### Module 3: Basic HTML+CSS Menu to Implement the Grid System in Bootstrap
 
-# Header 1
-## Header 2
-### Header 3
+You can view the finished preview [here](https://ps4449.github.io/coursera-html-css-johnhopkins/module3-solution/index.html).
 
-- Bulleted
-- List
+### Module 5: Frontend for a Chinese Restaurant using HTML+CSS+JS
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ps4449/cousera-html-css-johnhopkins/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can view the capstone project [here](.https://ps4449.github.io/coursera-html-css-johnhopkins/module5-solution/index.html).
