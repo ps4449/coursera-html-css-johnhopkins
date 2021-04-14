@@ -14,4 +14,4 @@ You can view the finished preview [here](https://ps4449.github.io/coursera-html-
 
 ### Module 5: Frontend for a Chinese Restaurant using HTML+CSS+JS
 
-You can view the capstone project [here](.https://ps4449.github.io/coursera-html-css-johnhopkins/module5-solution/index.html).
+You can view the capstone project [here](.https://ps4449.github.io/coursera-html-css-johnhopkins/module5-solution/index.html). 
