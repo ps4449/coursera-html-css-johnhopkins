@@ -1,5 +1,5 @@
 ## Welcome to My Solutions
-
+![alt text](https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~html-css-javascript-for-web-developers/XDP~COURSE!~html-css-javascript-for-web-developers.jpeg)
 I did three practical exercises in this course with increasing levels of difficulty. 
 
 ## Exercises
